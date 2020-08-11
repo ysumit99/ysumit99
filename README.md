@@ -22,4 +22,3 @@ I'm a Software Engineer at Accenture. I graduated from Manipal University Jaipur
 
 Thank You,<br />
 Sumit<br />
-[ysumit99.github.io](https://ysumit99.github.io)
