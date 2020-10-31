@@ -17,8 +17,8 @@ I'm a Software Engineer at Accenture. I graduated from Manipal University Jaipur
 
 **Languages and Tools:**
 
-- Web Development - Javascript, HTML, CSS, Bootstrap, React.
-- Competitive Programming - CPP
+- Web Development - Javascript, React, HTML, CSS, Sass, Bootstrap.
+- Competitive Programming - C++
 
 Thank You,<br />
 Sumit<br />
