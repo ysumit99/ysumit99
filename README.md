@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm a Software Engineer (Tech SME - Production) at Accenture. I graduated from Manipal University Jaipur in Computer Science & Engineering in 2018. A Tech SME/Frontend Web Developer, I am passionate about Tech Team Management and Web Development in general!
+I'm a Software Engineer (Tech SME - Production) at Accenture. I graduated from Manipal University Jaipur in Computer Science & Engineering in 2018. A Tech SME/Frontend Web Developer, I am passionate about Tech Team Management and Web Development in general! <br />
 **Languages and Tools:**
 
 - Web Development - Javascript, HTML, CSS, Email Development, jQuery, WordPress, CMS Tools, Sass, Bootstrap.
