@@ -13,7 +13,7 @@
 <br />
 <br />
 
-A Senior Software Engineer | Lead Tech SME | YouTuber | Content Creator | Competitive Coding Enthusiast, I have over 6 years of experience as a Senior Software Engineer, Tech SME, Team Lead, Tech Lead Roles. Areas of expertise include Full Stack / Front End Web Development and Tech Team Management. I have done B.Tech in Computer Science & Engineering (CSE)
+A Senior Software Engineer | Lead Tech SME | YouTuber | Content Creator | Competitive Coding Enthusiast. I have over 6 years of experience as a Senior Software Engineer, Tech SME, Team Lead, Tech Lead Roles. Areas of expertise include Full Stack / Front End Web Development, Tech Team Management, Content & Course Creation, Video Production & Editing and, Competitive Programming. I have done B.Tech in Computer Science & Engineering (CSE)
 
 I Secured an All India Rank of 626 in GATE CS 2021. 
 
