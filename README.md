@@ -1,4 +1,4 @@
-# Hello World! I am Sumit, a Senior Software Engineer who loves to code and create interesting stuff!
+# Hello World! I am Sumit Yadav!
 
 ## I am a Senior Software Engineer with 6+ years of experience in designing and developing scalable, high-performance full-stack applications. My expertise spans full-stack development, cloud-native architectures, and team leadership, ensuring applications are efficient, secure, and built for scale.
 
