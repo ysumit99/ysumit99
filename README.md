@@ -1,4 +1,4 @@
-# Hello World! I am Sumit. 
+# Hello World! I am Sumit, a Senior Software Engineer who loves to code and create interesting stuff!
 
 <a href="https://www.linkedin.com/in/sumit-yadav-73b594126/">
   <img align="left" alt="Sumit Yadav - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
