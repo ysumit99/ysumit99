@@ -2,9 +2,9 @@
 
 # Hi there, I'm Sumit Yadav 👋
 
-### Senior Software Engineer → Aspiring Staff Engineer
+### Senior Software Engineer | Building Cloud-Native Full-Stack & AI Applications
 
-#### Building Scalable Systems | Cloud-Native Architectures | AI-Powered Applications
+#### Building scalable full-stack platforms with React, Next.js, Node.js, TypeScript, AWS, and AI integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumityadav-dev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysumit99@gmail.com)
@@ -30,7 +30,7 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 - 📐 Passionate about **system design**, **distributed architectures**, and **engineering excellence**
 - 🌱 Constantly upskilling in **AI for Engineers**, **Kafka**, **Kubernetes** & **vector search**
 - 💬 Ask me about **React, Next.js, AWS, system design, microservices, or AI integrations**
-- ⚡ Fun fact: I think in **distributed systems** and dream in **TypeScript**
+- ⚡ Fun fact: I enjoy turning complex product requirements into reliable, maintainable systems.
 
 ---
 
