@@ -42,7 +42,7 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ### Languages
 
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,graphql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 ### Tools, Platforms & Cloud
 
