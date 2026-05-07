@@ -2,9 +2,9 @@
 
 # Hi there, I'm Sumit Yadav 👋
 
-### Senior Software Engineer | Building Cloud-Native Full-Stack & AI Applications
+### Senior Software Engineer | Cloud-Native Full-Stack & AI Applications
 
-#### Building scalable full-stack platforms with React, Next.js, Node.js, TypeScript, AWS, and AI integrations
+#### Building scalable platforms with React, Next.js, Node.js, TypeScript, AWS, Vercel, and AI integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumityadav-dev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysumit99@gmail.com)
