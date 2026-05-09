@@ -107,7 +107,7 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ## 🔨 Featured Projects
 
-> 🚧 Production projects currently under NDA — open source work coming soon!
+[My Tech Blog](https://sumityadav-dev.vercel.app)
 
 | Project                          | Description                  | Stack                       |
 | -------------------------------- | ---------------------------- | --------------------------- |
