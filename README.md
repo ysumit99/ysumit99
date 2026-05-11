@@ -109,11 +109,11 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 > 🚧 Production projects currently under NDA — open source work coming soon!
 
-| Project                          | Description                  | Stack                       |
-| -------------------------------- | ---------------------------- | --------------------------- |
-| 🔜 AI-Powered Next.js App        | LLM + RAG integration        | Next.js, Vercel AI SDK, AWS |
-| 🔜 Distributed URL Shortener     | High-scale system design     | Node.js, Redis, DynamoDB    |
-| 🔜 Real-time Notification System | WebSockets + event streaming | React, Kafka, SQS           |
+| Project                                                                    | Description                  | Stack                       |
+| -------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
+| 🔜 AI-Powered Next.js App                                                  | LLM + RAG integration        | Next.js, Vercel AI SDK, AWS |
+| [🔗 Distributed URL Shortener](https://url-shortener-phi-sooty.vercel.app) | High-scale system design     | Node.js, Redis, DynamoDB    |
+| 🔜 Real-time Notification System                                           | WebSockets + event streaming | React, Kafka, SQS           |
 
 ---
 
