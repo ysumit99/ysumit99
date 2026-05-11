@@ -107,13 +107,11 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ## 🔨 Featured Projects
 
-> 🚧 Production projects currently under NDA — open source work coming soon!
-
-| Project                                                                    | Description                  | Stack                       |
-| -------------------------------------------------------------------------- | ---------------------------- | --------------------------- |
-| 🔜 AI-Powered Next.js App                                                  | LLM + RAG integration        | Next.js, Vercel AI SDK, AWS |
-| [🔗 Distributed URL Shortener](https://url-shortener-phi-sooty.vercel.app) | High-scale system design     | Node.js, Redis, DynamoDB    |
-| 🔜 Real-time Notification System                                           | WebSockets + event streaming | React, Kafka, SQS           |
+| Project                          | Description                                                                              | Stack                                           | Links                                                                                                   |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 🧠 **AI RAG Assistant**          | Production RAG pipeline — upload PDFs and chat with an AI that references your documents | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant) |
+| 🔗 **Distributed URL Shortener** | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects       | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener) |
+| ✍️ **Staff Engineer Blog**       | Personal blog covering distributed systems, AI engineering & the road to Staff Engineer  | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/) · [Code](https://github.com/ysumit99/sumityadav-dev)         |
 
 ---
 
@@ -130,14 +128,16 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 [![Read My Blog](https://img.shields.io/badge/Read_My_Tech_Blog-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sumityadav-dev.vercel.app)
 
-I write detailed breakdowns on how to build, scale, and secure modern platforms.
+I write deep technical breakdowns on distributed systems, AI engineering, and Staff-level architecture thinking.
 
-**Currently drafting articles on:**
+**Published Articles:**
 
-- 🏗️ Designing fault-tolerant distributed systems at scale
-- 🤖 Integrating LLMs and RAG pipelines into production Next.js apps
-- ☁️ Multi-region AWS architectures with CloudFront & Lambda@Edge
-- 📐 From Senior to Staff — what the transition actually looks like
+- 🏗️ [SAGA Pattern — How I'd Design Uber's Booking Flow](https://sumityadav-dev.vercel.app/blog/saga-pattern-uber-booking)
+- 📊 [Scaling a Social Feed to 10 Million Users](https://sumityadav-dev.vercel.app/blog/scaling-social-feed)
+- 📨 [Message Queues Explained — SQS vs Kafka vs SNS](https://sumityadav-dev.vercel.app/blog/message-queues-sqs-kafka-sns)
+- 🔄 [Consistent Hashing — Why Distributed Systems Can't Live Without It](https://sumityadav-dev.vercel.app/blog/consistent-hashing)
+- 📐 [CAP Theorem Explained with Real-World Examples](https://sumityadav-dev.vercel.app/blog/cap-theorem-explained)
+- 🤖 [How I Built a Production RAG Pipeline with Next.js and Pinecone](https://sumityadav-dev.vercel.app/blog/rag-pipeline-nextjs-pinecone)
 
 ---
 
