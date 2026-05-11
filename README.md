@@ -128,9 +128,11 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ## ✍️ Technical Writing
 
-[My Tech Blog](https://sumityadav-dev.vercel.app)
+[![Read My Blog](https://img.shields.io/badge/Read_My_Tech_Blog-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sumityadav-dev.vercel.app)
 
-_Topics I'm planning to write about:_
+I write detailed breakdowns on how to build, scale, and secure modern platforms.
+
+**Currently drafting articles on:**
 
 - 🏗️ Designing fault-tolerant distributed systems at scale
 - 🤖 Integrating LLMs and RAG pipelines into production Next.js apps
