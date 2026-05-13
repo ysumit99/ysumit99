@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sumit Yadav 👋
 
-### Senior Software Engineer | Cloud-Native Full-Stack & AI Applications
+### Senior Software Engineer → Staff Engineer | Full-Stack · Distributed Systems · AI Engineering
 
 #### Building scalable platforms with React, Next.js, Node.js, TypeScript, AWS, Vercel, and AI integrations
 
@@ -12,7 +12,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ysumit99&color=blue&style=for-the-badge)
 
-> 🟢 **Open to Staff Engineer / Tech Lead opportunities** — [Let's talk!](mailto:ysumit99@gmail.com)
+> 🟢 **Actively seeking Staff Engineer / Tech Lead roles** — [Let's talk!](mailto:ysumit99@gmail.com)
 
 </div>
 
@@ -42,7 +42,7 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ### Languages
 
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,graphql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 ### Tools, Platforms & Cloud
 
@@ -54,6 +54,13 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-5e8cf4?style=for-the-badge&logoColor=white)
+![RAG Pipeline](https://img.shields.io/badge/RAG_Pipeline-b06ef3?style=for-the-badge&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector_DB-000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ---
 
@@ -69,15 +76,15 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ## 🚀 Currently Building & Exploring
 
-| Area                          | What I'm Working On                                                                 |
-| ----------------------------- | ----------------------------------------------------------------------------------- |
-| 🏗️ **Distributed Systems**    | Fault tolerance, leader election, SAGA patterns & distributed transactions          |
-| 🤖 **AI Engineering**         | LLM integrations, RAG pipelines & semantic search with vector embeddings in Next.js |
-| ☁️ **Cloud Architecture**     | Multi-region AWS with CloudFront, Lambda@Edge & serverless microservices            |
-| 📊 **Real-time Systems**      | High-throughput data pipelines with Kafka & WebSockets                              |
-| 🔍 **Search**                 | Semantic search with Elasticsearch & vector databases (Pinecone, pgvector)          |
-| 🛡️ **Security**               | API security, rate limiting, zero-trust architecture & OAuth 2.0 patterns           |
-| 📐 **Engineering Leadership** | Technical mentorship, system design reviews & cross-team architectural decisions    |
+| Area                          | What I'm Working On                                                                                                               |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 🏗️ **Distributed Systems**    | Fault tolerance, leader election, SAGA patterns & distributed transactions                                                        |
+| 🤖 **AI Engineering**         | Built production RAG pipeline — Next.js + Gemini 2.5 + Pinecone + Vercel AI SDK. Exploring agentic workflows & multi-document RAG |
+| ☁️ **Cloud Architecture**     | Multi-region AWS with CloudFront, Lambda@Edge & serverless microservices                                                          |
+| 📊 **Real-time Systems**      | High-throughput data pipelines with Kafka & WebSockets                                                                            |
+| 🔍 **Search**                 | Semantic search with Elasticsearch & vector databases (Pinecone, pgvector)                                                        |
+| 🛡️ **Security**               | API security, rate limiting, zero-trust architecture & OAuth 2.0 patterns                                                         |
+| 📐 **Engineering Leadership** | Technical mentorship, system design reviews & cross-team architectural decisions                                                  |
 
 ---
 
