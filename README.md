@@ -114,11 +114,12 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 ## 🔨 Featured Projects
 
-| Project                          | Description                                                                              | Stack                                           | Links                                                                                                   |
-| -------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 🧠 **AI RAG Assistant**          | Production RAG pipeline — upload PDFs and chat with an AI that references your documents | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant) |
-| 🔗 **Distributed URL Shortener** | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects       | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener) |
-| ✍️ **Staff Engineer Blog**       | Personal blog covering distributed systems, AI engineering & the road to Staff Engineer  | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                              |
+| Project                              | Description                                                                               | Stack                                           | Links                                                                                                                     |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **AI RAG Assistant**              | Production RAG pipeline — upload PDFs and chat with an AI that references your documents  | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant)                   |
+| ⚡ **Real-Time Notification Engine** | Serverless event-driven architecture with fan-out worker queues and live SSE push updates | Next.js 16, Upstash Redis, QStash, SSE          | [Live](https://next-realtime-notifications.vercel.app/) · [Code](https://github.com/ysumit99/next-realtime-notifications) |
+| 🔗 **Distributed URL Shortener**     | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects        | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener)                   |
+| ✍️ **Staff Engineer Blog**           | Personal blog covering distributed systems, AI engineering & the road to Staff Engineer   | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                                                |
 
 ---
 
