@@ -139,7 +139,7 @@ I write deep technical breakdowns on distributed systems, AI engineering, and St
 
 **Published Articles:**
 
-- ⚡ [Building a Real-Time Notification System with SSE, Redis & Next.js](https://sumityadav-dev.vercel.app/blog/realtime-notification-system)
+- ⚡ [Building a Real-Time Notification System with SSE, Redis & Next.js](https://sumityadav-dev.vercel.app/blog/realtime-notification-engine)
 - 🤖 [How I Built a Production RAG Pipeline with Next.js and Pinecone](https://sumityadav-dev.vercel.app/blog/rag-pipeline-nextjs-pinecone)
 - 🏗️ [SAGA Pattern — How I'd Design Uber's Booking Flow](https://sumityadav-dev.vercel.app/blog/saga-pattern-uber-booking)
 - 📊 [Scaling a Social Feed to 10 Million Users](https://sumityadav-dev.vercel.app/blog/scaling-social-feed)
