@@ -139,12 +139,13 @@ I write deep technical breakdowns on distributed systems, AI engineering, and St
 
 **Published Articles:**
 
+- ⚡ [Building a Real-Time Notification System with SSE, Redis & Next.js](https://sumityadav-dev.vercel.app/blog/realtime-notification-system)
+- 🤖 [How I Built a Production RAG Pipeline with Next.js and Pinecone](https://sumityadav-dev.vercel.app/blog/rag-pipeline-nextjs-pinecone)
 - 🏗️ [SAGA Pattern — How I'd Design Uber's Booking Flow](https://sumityadav-dev.vercel.app/blog/saga-pattern-uber-booking)
 - 📊 [Scaling a Social Feed to 10 Million Users](https://sumityadav-dev.vercel.app/blog/scaling-social-feed)
 - 📨 [Message Queues Explained — SQS vs Kafka vs SNS](https://sumityadav-dev.vercel.app/blog/message-queues-sqs-kafka-sns)
 - 🔄 [Consistent Hashing — Why Distributed Systems Can't Live Without It](https://sumityadav-dev.vercel.app/blog/consistent-hashing)
 - 📐 [CAP Theorem Explained with Real-World Examples](https://sumityadav-dev.vercel.app/blog/cap-theorem-explained)
-- 🤖 [How I Built a Production RAG Pipeline with Next.js and Pinecone](https://sumityadav-dev.vercel.app/blog/rag-pipeline-nextjs-pinecone)
 
 ---
 
