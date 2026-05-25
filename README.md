@@ -40,8 +40,8 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 
 Interested in Staff Engineer, Senior Full-Stack, Distributed Systems, or AI Engineering roles.
 
-- [View Resume (PDF)](https://ysumit99.github.io/Sumit_Yadav_Resume_2026.pdf)
-- [Portfolio Website](https://ysumit99.github.io/)
+- [View Resume (PDF)](https://ysumit99.github.io/Sumit_Yadav_Resume_2026.pdf){:target="\_blank"}
+- [Portfolio Website](https://ysumit99.github.io/){:target="\_blank"}
 
 ---
 
