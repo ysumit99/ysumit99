@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumityadav-dev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysumit99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysumit99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://ysumit99.github.io/)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-111827?style=for-the-badge&logo=hashnode&logoColor=white)](https://sumityadav-dev.vercel.app)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ysumit99&color=blue&style=for-the-badge)
 
@@ -31,6 +33,15 @@ I'm a **Senior Software Engineer with 7+ years of experience** designing and shi
 - 🌱 Constantly upskilling in **AI for Engineers**, **Kafka**, **Kubernetes** & **vector search**
 - 💬 Ask me about **React, Next.js, AWS, system design, microservices, or AI integrations**
 - ⚡ Fun fact: I enjoy turning complex product requirements into reliable, maintainable systems.
+
+---
+
+## 📄 Resume
+
+Interested in Staff Engineer, Senior Full-Stack, Distributed Systems, or AI Engineering roles.
+
+- [View Resume (PDF)](https://ysumit99.github.io/Sumit_Yadav_Resume_2026.pdf)
+- [Portfolio Website](https://ysumit99.github.io/)
 
 ---
 
