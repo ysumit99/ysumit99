@@ -2,9 +2,9 @@
 
 # Hi there, I'm Sumit Yadav 👋
 
-### Senior Software Engineer → Staff Engineer | Full-Stack · Distributed Systems · AI Engineering
+### Senior Software Engineer → Staff Engineer | Distributed Systems · AI-Native Products · Cloud Architecture
 
-#### Building scalable platforms with React, Next.js, Node.js, TypeScript, AWS, Vercel, and AI integrations
+#### Shipping production systems with Next.js · Node.js · TypeScript · AWS · Vercel AI SDK · Pinecone · Redis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumityadav-dev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysumit99@gmail.com)
@@ -24,24 +24,22 @@
 
 > _"I don't just write code — I architect systems that scale, lead teams that deliver, and solve problems that matter."_
 
-I'm a **Senior Software Engineer with 7+ years of experience** designing and shipping high-performance, cloud-native, full-stack applications used by real users at scale. I specialise in **distributed systems**, **AI integrations**, and **engineering leadership** — and I'm actively growing toward a **Staff / Tech Lead** role where I can drive technical strategy and cross-team impact.
+Senior Software Engineer with **7+ years** shipping high-performance, cloud-native applications at enterprise scale. Currently at **Accenture** leading a team across full-stack and microservices architecture. I specialise in **distributed systems**, **AI-native product engineering**, and **engineering leadership** — actively targeting **Staff Engineer / Tech Lead** roles where I can drive technical strategy and cross-team impact.
 
-- 🏢 Senior Engineer @ **Accenture** — leading full-stack architecture & cloud solutions for enterprise-scale clients
-- 🔭 Building production-grade systems with **Next.js, React, Node.js, TypeScript & AWS**
-- 🤖 Integrating **LLMs, RAG pipelines & AI APIs** into real-world applications
-- 📐 Passionate about **system design**, **distributed architectures**, and **engineering excellence**
-- 🌱 Constantly upskilling in **AI for Engineers**, **Kafka**, **Kubernetes** & **vector search**
-- 💬 Ask me about **React, Next.js, AWS, system design, microservices, or AI integrations**
-- ⚡ Fun fact: I enjoy turning complex product requirements into reliable, maintainable systems.
+- 🏢 **Accenture** — Tech Lead driving full-stack architecture & cloud solutions for enterprise-scale clients
+- 🤖 Shipped production **RAG pipeline** — Next.js + Google Gemini 2.5 + Pinecone + Vercel AI SDK
+- ⚡ Built **real-time notification engine** with SSE, Redis fan-out & multi-channel delivery
+- 📐 Deep expertise in **system design** — SAGA patterns, consistent hashing, distributed transactions
+- ✍️ Technical author — 7 published deep-dives on distributed systems & AI engineering
+- 🌍 **Open to Staff Engineer / Tech Lead opportunities**
 
 ---
 
-## 📄 Resume
+## 📄 Resume & Portfolio
 
-Staff / Lead Engineer focused on scalable distributed systems, platform architecture, and AI-native applications.
-
-- [View Resume (PDF)](https://ysumit99.github.io/Sumit_Yadav_Resume_2026.pdf)
-- [Portfolio Website](https://ysumit99.github.io/)
+- 📄 [Download Resume (PDF)](https://ysumit99.github.io/Sumit_Yadav_Resume_2026.pdf)
+- 🌐 [Portfolio](https://ysumit99.github.io/)
+- ✍️ [Technical Blog](https://sumityadav-dev.vercel.app)
 
 ---
 
