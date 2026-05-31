@@ -28,6 +28,7 @@ Senior Software Engineer with **7+ years** shipping high-performance, cloud-nati
 
 - 🏢 **Accenture** — Tech Lead driving full-stack architecture & cloud solutions for enterprise-scale clients
 - 🤖 Shipped production **RAG pipeline** — Next.js + Google Gemini 2.5 + Pinecone + Vercel AI SDK
+- ⬡ Built **AlgoLens** — 25+ interactive DSA & system design visualizers, built from scratch with zero animation libraries
 - ⚡ Built **real-time notification engine** with SSE, Redis fan-out & multi-channel delivery
 - 📐 Deep expertise in **system design** — SAGA patterns, consistent hashing, distributed transactions
 - ✍️ Technical author — 7 published deep-dives on distributed systems & AI engineering
@@ -94,6 +95,7 @@ Senior Software Engineer with **7+ years** shipping high-performance, cloud-nati
 | 🔍 **Search**                 | Semantic search with Elasticsearch & vector databases (Pinecone, pgvector)                                                        |
 | 🛡️ **Security**               | API security, rate limiting, zero-trust architecture & OAuth 2.0 patterns                                                         |
 | 📐 **Engineering Leadership** | Technical mentorship, system design reviews & cross-team architectural decisions                                                  |
+| ⬡ **AlgoLens**                | 25+ interactive DSA & system design visualizers — Interview Mode, AVL Trees, A\* Search in progress                               |
 
 ---
 
@@ -123,18 +125,20 @@ Senior Software Engineer with **7+ years** shipping high-performance, cloud-nati
 
 ## 🔨 Featured Projects
 
-| Project                              | Description                                                                               | Stack                                           | Links                                                                                                                     |
-| ------------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **AI RAG Assistant**              | Production RAG pipeline — upload PDFs and chat with an AI that references your documents  | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant)                   |
-| ⚡ **Real-Time Notification Engine** | Serverless event-driven architecture with fan-out worker queues and live SSE push updates | Next.js 16, Upstash Redis, QStash, SSE          | [Live](https://next-realtime-notifications.vercel.app/) · [Code](https://github.com/ysumit99/next-realtime-notifications) |
-| 🔗 **Distributed URL Shortener**     | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects        | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener)                   |
-| ✍️ **Staff Engineer Blog**           | Personal blog covering distributed systems, AI engineering & the road to Staff Engineer   | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                                                |
+| Project                              | Description                                                                                                   | Stack                                           | Links                                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ⬡ **AlgoLens**                       | Interactive algorithm & system design visualizer — 25+ animated DSA and system design labs built from scratch | Next.js 16, TypeScript 6, Vanilla CSS           | [Live](https://algolens-cyan.vercel.app/) · [Code](https://github.com/ysumit99/algolens)                                  |
+| 🧠 **AI RAG Assistant**              | Production RAG pipeline — upload PDFs and chat with an AI that references your documents                      | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant)                   |
+| ⚡ **Real-Time Notification Engine** | Serverless event-driven architecture with fan-out worker queues and live SSE push updates                     | Next.js 16, Upstash Redis, QStash, SSE          | [Live](https://next-realtime-notifications.vercel.app/) · [Code](https://github.com/ysumit99/next-realtime-notifications) |
+| 🔗 **Distributed URL Shortener**     | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects                            | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener)                   |
+| ✍️ **Staff Engineer Blog**           | Personal blog covering distributed systems, AI engineering & the road to Staff Engineer                       | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                                                |
 
 ---
 
 ## 📈 What I'm Working Toward
 
 - 🎯 Transitioning into a **Staff Engineer / Tech Lead** role at a high-impact company
+- ⬡ Growing **AlgoLens** into the definitive open-source DSA & system design learning platform
 - 🧩 Contributing to **open source** projects in the React & AI tooling ecosystem
 - ✍️ Sharing knowledge through **technical articles** on system design & AI engineering
 - 🌍 Building **AI-powered full-stack applications** that solve real problems
