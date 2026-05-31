@@ -31,7 +31,7 @@ Senior Software Engineer with **7+ years** shipping high-performance, cloud-nati
 - ⬡ Built **AlgoLens** — 25+ interactive DSA & system design visualizers, built from scratch with zero animation libraries
 - ⚡ Built **real-time notification engine** with SSE, Redis fan-out & multi-channel delivery
 - 📐 Deep expertise in **system design** — SAGA patterns, consistent hashing, distributed transactions
-- ✍️ Technical author — 7 published deep-dives on distributed systems & AI engineering
+- ✍️ Technical author — 8 published deep-dives on distributed systems & AI engineering
 - 🌍 **Open to Staff Engineer / Tech Lead opportunities**
 
 ---
