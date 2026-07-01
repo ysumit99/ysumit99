@@ -29,7 +29,7 @@
 Lead Software Engineer with **7+ years** shipping high-performance, cloud-native applications at enterprise scale. Currently at **Accenture** leading a team across full-stack and microservices architecture. I specialise in **designing intelligent, scalable software systems**, through **distributed architectures**, **AI-native applications**, and **modern cloud-native engineering.**
 
 - 🏢 **Accenture** — Tech Lead driving full-stack architecture & cloud solutions for enterprise-scale clients
-- 🤖 Shipped production **RAG pipeline** — Next.js + Google Gemini 2.5 + Pinecone + Vercel AI SDK
+- 🤖 Shipped production **RAG pipeline** — Next.js + Google Gemini + Pinecone + Vercel AI SDK
 - ⬡ Built **AlgoLens** — 25+ interactive DSA & system design visualizers, built from scratch with zero animation libraries
 - ⚡ Built **real-time notification engine** with SSE, Redis fan-out & multi-channel delivery
 - 📐 Deep expertise in **system design** — SAGA patterns, consistent hashing, distributed transactions
@@ -71,7 +71,7 @@ Lead Software Engineer with **7+ years** shipping high-performance, cloud-native
 | Area                          | What I'm Working On                                                                                                               |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 🏗️ **Distributed Systems**    | Fault tolerance, leader election, SAGA patterns & distributed transactions                                                        |
-| 🤖 **AI Engineering**         | Built production RAG pipeline — Next.js + Gemini 2.5 + Pinecone + Vercel AI SDK. Exploring agentic workflows & multi-document RAG |
+| 🤖 **AI Engineering**         | Built production RAG pipeline — Next.js + Gemini + Pinecone + Vercel AI SDK. Exploring agentic workflows & multi-document RAG |
 | ☁️ **Cloud Architecture**     | Multi-region AWS with CloudFront, Lambda@Edge & serverless microservices                                                          |
 | 📊 **Real-time Systems**      | High-throughput data pipelines with Kafka & WebSockets                                                                            |
 | 🔍 **Search**                 | Semantic search with Elasticsearch & vector databases (Pinecone, pgvector)                                                        |
@@ -98,11 +98,11 @@ Lead Software Engineer with **7+ years** shipping high-performance, cloud-native
 
 | Project                              | Description                                                                                                   | Stack                                           | Links                                                                                                                     |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ⬡ **AlgoLens**                       | Interactive algorithm & system design visualizer — 25+ animated DSA and system design labs built from scratch | Next.js 16, TypeScript 6, Vanilla CSS           | [Live](https://algolens-cyan.vercel.app/) · [Code](https://github.com/ysumit99/algolens)                                  |
-| 🧠 **AI RAG Assistant**              | Production RAG pipeline — upload PDFs and chat with an AI that references your documents                      | Next.js 16, Gemini 2.5, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant)                   |
-| ⚡ **Real-Time Notification Engine** | Serverless event-driven architecture with fan-out worker queues and live SSE push updates                     | Next.js 16, Upstash Redis, QStash, SSE          | [Live](https://next-realtime-notifications.vercel.app/) · [Code](https://github.com/ysumit99/next-realtime-notifications) |
+| ⬡ **AlgoLens**                       | Interactive algorithm & system design visualizer — 25+ animated DSA and system design labs built from scratch | Next.js, TypeScript, Vanilla CSS           | [Live](https://algolens-cyan.vercel.app/) · [Code](https://github.com/ysumit99/algolens)                                  |
+| 🧠 **AI RAG Assistant**              | Production RAG pipeline — upload PDFs and chat with an AI that references your documents                      | Next.js, Gemini, Pinecone, Vercel AI SDK | [Live](https://next-rag-assistant.vercel.app/) · [Code](https://github.com/ysumit99/next-rag-assistant)                   |
+| ⚡ **Real-Time Notification Engine** | Serverless event-driven architecture with fan-out worker queues and live SSE push updates                     | Next.js, Upstash Redis, QStash, SSE          | [Live](https://next-realtime-notifications.vercel.app/) · [Code](https://github.com/ysumit99/next-realtime-notifications) |
 | 🔗 **Distributed URL Shortener**     | High-scale URL shortener with AP architecture, O(1) Redis lookups & edge redirects                            | Next.js, Upstash Redis, Vercel                  | [Live](https://url-shortener-phi-sooty.vercel.app/) · [Code](https://github.com/ysumit99/url-shortener)                   |
-| ✍️ **Tech Blog**                     | Personal blog covering distributed systems, AI engineering, and modern software architecture.                 | Next.js 16, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                                                |
+| ✍️ **Tech Blog**                     | Personal blog covering distributed systems, AI engineering, and modern software architecture.                 | Next.js, MDX, Tailwind, Vercel               | [Live](https://sumityadav-dev.vercel.app/)                                                                                |
 
 ---
 
