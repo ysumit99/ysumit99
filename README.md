@@ -56,6 +56,8 @@ designing intelligent, scalable software systems through distributed architectur
 | ☁️ **Cloud & Platform Engineering** | AWS • Docker • Kubernetes • Serverless • PostgreSQL • Vercel                   |
 | 🌐 **Full-Stack Engineering**       | React • Next.js • TypeScript • Node.js • GraphQL • REST APIs                   |
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
