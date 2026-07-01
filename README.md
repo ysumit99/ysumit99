@@ -28,8 +28,6 @@
 
 Lead Software Engineer with **7+ years** shipping high-performance, cloud-native applications at enterprise scale. Currently at **Accenture** leading a team across full-stack and microservices architecture. I specialise in **designing intelligent, scalable software systems**, through **distributed architectures**, **AI-native applications**, and **modern cloud-native engineering.**
 
-designing intelligent, scalable software systems through distributed architectures, AI-native applications, and modern cloud-native engineering.
-
 - 🏢 **Accenture** — Tech Lead driving full-stack architecture & cloud solutions for enterprise-scale clients
 - 🤖 Shipped production **RAG pipeline** — Next.js + Google Gemini 2.5 + Pinecone + Vercel AI SDK
 - ⬡ Built **AlgoLens** — 25+ interactive DSA & system design visualizers, built from scratch with zero animation libraries
